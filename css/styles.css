@@ -1,0 +1,161 @@
+*{
+  margin: opx;
+  padding: 0px;
+}
+.clr{
+  clear: both;
+}
+
+
+.container{
+  width: 1400px;
+  margin: 0px auto;
+  background-color: #ffffff;
+
+}
+.l-b-a{
+  width: 98%;
+  min-height: 120px;
+  border:2px solid #00008b;
+  background-color: #d3d3d3;
+  
+  }
+   .logo{
+    margin-left: 5px;
+    margin-right: 80px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    float: left;
+    
+  }
+ 
+  .title{
+   margin-left: 2px;
+   margin-right: 500px;
+   margin-top: 5px;
+   margin-bottom: 0px;
+   line-height: 0.01px;
+   float:left;
+    
+   
+  }
+  .top-menu{
+    
+    float: left;
+    margin-right: 2px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+   }
+   .top-menu ul{
+     list-style-type: none;
+     margin:0;
+     padding:0;
+   }
+   .clr{
+    clear: both;
+  }
+
+.three-in-one{
+  width: 100%;
+  height: 368px;
+  padding-top: 0.02px;
+}
+.mid-menu{
+  min-height: 95%;
+  width: 12%;
+  float: left;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+
+}
+  
+.mid-menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  border: 2px solid #000000;
+}
+
+.mid-menu li a {
+  display: block;
+  color: #00008b;
+  padding: 8px 16px;
+  text-decoration: none;
+  margin: 15px;
+}
+
+.mid-menu li {
+  text-align: center;
+  font-weight: bold;
+  border-bottom: 2px solid #000000;
+}
+
+.mid-menu li:last-child {
+  border-bottom: none;
+}
+
+.mid-menu li a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.mid-menu li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+.mid-text{
+  min-height:95%;
+  width: 60%;
+  float: left;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  border:2px solid #00008b;
+  
+  
+}
+.mid-text h2{
+  color:#00008b;
+  text-align: justify;
+}
+.mid-text p{
+  padding-top: 60px;
+  text-align:center;
+  color: #00008b;
+}
+.gallary{
+  max-height: 95%;
+  width: 24%
+  float: right;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  padding-left: 20px;
+
+  
+}
+.gallary img{
+  padding-left:10px;
+
+}
+.gallary img 1{
+  width: 100%;
+  height: 48%;
+}
+.buttom{
+  text-align: center;
+  border: 2px solid #00008b;
+  background-color: #d;
+  min-height:50px;
+}
+.buttom2{
+  margin-top: 10px;
+  min-height: 100px;
+  width: 100%;
+  text-align: center;
+  font-weight: bolder;
+  border: 2px solid #00008b;
+  background-color: #d3d3d3;
+}
